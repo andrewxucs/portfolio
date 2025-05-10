@@ -1,13 +1,13 @@
 ---
-title: Password Cracker
-publishDate: 2019-12-01 00:00:00
+title: RankLLM
+publishDate: 2025-01-01 00:00:00
 img: /assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
-description: |
-  Tests the effectiveness of a password by combining a dictionary and brute force attack
+description: RankLLM is a Python toolkit for reproducible information retrieval research using rerankers, with a focus on listwise reranking.
+  
 tags:
-  - Hybrid Attack
-  - Python
+  - LLM
+  - Rerankers
 ---
 
-## <a href = "https://github.com/andrewxucs/hornet">Source Code Link </a>
+## <a href = "https://github.com/castorini/rank_llm/">Resource Link </a>
